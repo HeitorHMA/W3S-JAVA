@@ -3,3 +3,5 @@ public class Main {
         System.out.println(10 * 15);
     }
 }
+//this is a singe line comment
+/* this is a multi-line comment */
